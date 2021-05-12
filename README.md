@@ -26,8 +26,9 @@
 4. 丰厚的`薪酬`
 5. 满意的`Offer`
 
-## 三、自身的缺陷
+# 三、自身的缺陷
 ![](https://upload-images.jianshu.io/upload_images/22877992-2f76ded07fdae245.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 **如果这些问题是阻止你升职加薪，跳槽大厂的阻碍。
 那么我确信可以帮你突破瓶颈！**
 
@@ -35,20 +36,26 @@
 ![](https://upload-images.jianshu.io/upload_images/22877992-e2ba018c006a4968.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >从底层知识到技术亮点，从简历模板到面试口述，每天花一点时间来学习，提升或许不会很快，但不学习不行动就一定会被淘汰！
 
-**视频资料获取方式：
- 添加小编VX：mayday1739 或者QQ：3432968801
-添加时请备注：iOS技术提升视频； (PS:请勿外传，仅仅个人学习使用)**
+**视频资料获取方式**
+**添加小编VX：mayday1739 或者QQ：3432968801**
+**添加时请备注：iOS技术提升视频； (PS:请勿外传，仅仅个人学习使用)**
+
 
 # 第二步-BAT面试资料
 ![](https://upload-images.jianshu.io/upload_images/22877992-b8a0d2210cc3808f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >收集整理：BAT等各个大厂iOS面试真题+答案.PDF文档
 
-**面试资料获取方式：
-点击添加咱们的技术交流圈  管理处免费领取全套iOS资料
-点击-直接加入：
-[技术交流1群](https://jq.qq.com/?_wv=1027&k=mxRiktJ0)
-[技术交流2群](https://jq.qq.com/?_wv=1027&k=pRi4RmDi)
-1群将满 可以先申请2群**
+**面试资料获取方式：**
+
+**点击添加咱们的技术交流圈  管理处免费领取全套iOS资料**
+
+**点击-直接加入：**
+
+**[技术交流1群](https://jq.qq.com/?_wv=1027&k=mxRiktJ0)**
+
+**[技术交流2群](https://jq.qq.com/?_wv=1027&k=pRi4RmDi)**
+
+**1群将满 可以先申请2群**
 
 
 
@@ -59,12 +66,17 @@
 
 >还用很多内容，就不详细展示了，都在群文件中可以自行下载 希望获取到的你；能好好利用，提升自己！
 
-**书籍资料获取方式：
-点击添加咱们的技术交流圈  群文件中可自行选择下载需要的书籍
-点击 - 直接加入：
-[技术交流1群](https://jq.qq.com/?_wv=1027&k=mxRiktJ0)
-[技术交流2群](https://jq.qq.com/?_wv=1027&k=pRi4RmDi)
-1群将满 可以先申请2群**
+**书籍资料获取方式：**
+
+**点击添加咱们的技术交流圈  管理处免费领取全套iOS资料**
+
+**点击-直接加入：**
+
+**[技术交流1群](https://jq.qq.com/?_wv=1027&k=mxRiktJ0)**
+
+**[技术交流2群](https://jq.qq.com/?_wv=1027&k=pRi4RmDi)**
+
+**1群将满 可以先申请2群**
 
 ******
 翻到底了，我也是有底线的 
